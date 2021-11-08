@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CoolDroid</string>
+    <string name="contentDescription">CoolerDroid</string>
+    <string name="textViewContent">Don\'t touch the droid!</string>
+    <string name="txtOnce">You touched the droid once!</string>
+    <string name="txtTwice">You touched the droid twice!</string>
+    <string name="textViewNumbers">You touched the droid %1$d times!</string>
+</resources>

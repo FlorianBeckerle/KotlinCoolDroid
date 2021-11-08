@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoolDroid</string>
+    <string name="contentDescription">CoolerDroid</string>
+    <string name="textViewContent">Fasse den Droiden nicht an!</string>
+    <string name="txtOnce">Du hast ihn einmal angefasst!</string>
+    <string name="txtTwice">Du hast ihn zweimal angefasst!</string>
+    <string name="textViewNumbers">Du hast ihn %1$d mal angefasst.</string>
+</resources>
