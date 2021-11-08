@@ -1,3 +1,3 @@
 # KotlinCoolDroid
  
-Projekt from School
+Project from School
